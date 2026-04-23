@@ -1,0 +1,15 @@
+#Laptop dataset
+Sentence + (aspect, category, sentiment ,opinion)
+eg: this works fine for that .####[['NULL', 'laptop quality', 'positive', 'fine']]
+
+#Restaurant dataset
+Sentence + (aspect, category, sentiment ,opinion)
+eg: avoid this place !####[['place', 'restaurant general', 'negative', 'avoid']]
+
+#Res15 dataset
+Sentence + (aspect, category, sentiment ,opinion)
+eg: Food is excellent .####[['Food', 'food quality', 'positive', 'excellent']]
+
+#Res16 dataset
+Sentence + (aspect, category, sentiment ,opinion)
+The waiter was attentive .####[['waiter', 'service general', 'positive', 'attentive']]
